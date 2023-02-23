@@ -6,3 +6,4 @@ This was created as a project for my high school computer science class.
 Uses Java and Java Swing.
 
 ## screenshots from the game
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
