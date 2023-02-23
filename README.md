@@ -1,1 +1,3 @@
 # wordle
+## details
+created by
