@@ -5,4 +5,4 @@ This is a clone of the word game, [Worlde](https://en.wikipedia.org/wiki/Wordle)
 This was created as a project for my high school computer science class.
 Uses Java and Java Swing.
 
-##screenshots from the game
+## screenshots from the game
