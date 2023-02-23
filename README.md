@@ -1,3 +1,4 @@
 # wordle
 ## details
-created by carlgombert
+Created by: [carlgombert]((https://github.com/carlgombert))
+
