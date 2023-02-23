@@ -1,3 +1,3 @@
 # wordle
 ## details
-created by
+created by carlgombert
