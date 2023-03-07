@@ -3,7 +3,7 @@
 Created by: [carlgombert](https://github.com/carlgombert)  
 This is a clone of the word game, [Wordle](https://en.wikipedia.org/wiki/Wordle), developed originally by Josh Wardle.    
 Uses Java and Java Swing.  
-[file path to code](wordle/tree/main/WORDLE/src/com/sandbox/main)
+[file path to code](https://github.com/carlgombert/wordle/tree/main/WORDLE/src/com/sandbox/main)
 
 ## screenshots from the game
 ![This is an image](https://github.com/carlgombert/wordle/blob/main/SCREENSHOTS/ScreenShot1.png)
